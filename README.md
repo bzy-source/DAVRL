@@ -1,7 +1,7 @@
 # Dual-Attention Global Video Representation Learning for Parameter Efficient Text-Video Retrieval
 
 This is the official implementation of the paper: "Dual-Attention Global Video Representation Learning for Parameter Efficient Text-Video Retrieval"
-![framework](framework.pdf)
+[framework](framework.pdf)
 
 ## Environment
 Create a new conda environment: source create_env.sh
